@@ -14,9 +14,6 @@ It is generated with [Stainless](https://www.stainless.com/).
 npm install tensorbase
 ```
 
-> [!NOTE]
-> Once this package is [published to npm](https://app.stainless.com/docs/guides/publish), this will become: `npm install tensorbase`
-
 ## Usage
 
 The full API of this library can be found in [api.md](api.md).
