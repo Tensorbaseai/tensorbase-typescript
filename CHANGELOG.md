@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.0.1-alpha.2 (2025-06-18)
+
+Full Changelog: [v0.0.1-alpha.1...v0.0.1-alpha.2](https://github.com/Tensorbaseai/tensorbase-typescript/compare/v0.0.1-alpha.1...v0.0.1-alpha.2)
+
+### Bug Fixes
+
+* updated readme ([209bf8a](https://github.com/Tensorbaseai/tensorbase-typescript/commit/209bf8a1b5b1f8d29e9d0aa057b3543cacf82c20))
+* updated readme ([59b0a09](https://github.com/Tensorbaseai/tensorbase-typescript/commit/59b0a09f4093a5261c5f5383f3db35a1e9838e8c))
+
 ## 0.0.1-alpha.1 (2025-06-18)
 
 Full Changelog: [v0.0.1-alpha.0...v0.0.1-alpha.1](https://github.com/Tensorbaseai/tensorbase-typescript/compare/v0.0.1-alpha.0...v0.0.1-alpha.1)
