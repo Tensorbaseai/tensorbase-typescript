@@ -1,4 +1,4 @@
 configured_endpoints: 5
 openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/tensorbase%2Ftensorbase-26754049d6897fd36128d3b3962848ec21287f0ee253273ca0265f384ae13ed6.yml
 openapi_spec_hash: 8b12c46e838d6e5ea73a8c958187b663
-config_hash: 013e48e0f7d1927069d39ec84f97271b
+config_hash: 83d0785160f417246c969589d276abee
