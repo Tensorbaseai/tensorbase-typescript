@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.0.1-alpha.3 (2025-06-21)
+
+Full Changelog: [v0.0.1-alpha.2...v0.0.1-alpha.3](https://github.com/Tensorbaseai/tensorbase-typescript/compare/v0.0.1-alpha.2...v0.0.1-alpha.3)
+
+### Bug Fixes
+
+* **client:** explicitly copy fetch in withOptions ([ff8aec5](https://github.com/Tensorbaseai/tensorbase-typescript/commit/ff8aec56ddcaafd53f709690c52e4f97a3a20c83))
+
+
+### Chores
+
+* **readme:** use better example snippet for undocumented params ([45bfa38](https://github.com/Tensorbaseai/tensorbase-typescript/commit/45bfa38d9cd9b314b312dd9d74dd0e1ef366161f))
+
 ## 0.0.1-alpha.2 (2025-06-18)
 
 Full Changelog: [v0.0.1-alpha.1...v0.0.1-alpha.2](https://github.com/Tensorbaseai/tensorbase-typescript/compare/v0.0.1-alpha.1...v0.0.1-alpha.2)
