@@ -8,7 +8,7 @@ const client = new Tensorbase({
 });
 
 describe('resource chat', () => {
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('generateCompletion: only required params', async () => {
     const responsePromise = client.chat.generateCompletion({ messages: [{}], model: 'model' });
     const rawResponse = await responsePromise.asResponse();
@@ -20,7 +20,7 @@ describe('resource chat', () => {
     expect(dataAndResponse.response).toBe(rawResponse);
   });
 
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('generateCompletion: required and optional params', async () => {
     const response = await client.chat.generateCompletion({
       messages: [{ content: 'content', name: 'name', role: 'system', tool_calls: [{}] }],

@@ -8,7 +8,7 @@ const client = new Tensorbase({
 });
 
 describe('top level methods', () => {
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('healthCheck', async () => {
     const responsePromise = client.healthCheck();
     const rawResponse = await responsePromise.asResponse();
