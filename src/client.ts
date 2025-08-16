@@ -735,9 +735,11 @@ export class Tensorbase {
   images: API.Images = new API.Images(this);
   models: API.Models = new API.Models(this);
 }
+
 Tensorbase.Chat = Chat;
 Tensorbase.Images = Images;
 Tensorbase.Models = Models;
+
 export declare namespace Tensorbase {
   export type RequestOptions = Opts.RequestOptions;
 
